@@ -1,4 +1,5 @@
 -- SQL PROJECT --
+Project Name :- Employee and Department Management System
 -- Database Setup 
 -- Create a database called CompanyDB. 
 -- Design and create the following two tables with the specified columns: 
