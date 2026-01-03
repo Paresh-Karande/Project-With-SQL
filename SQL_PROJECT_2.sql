@@ -1,3 +1,4 @@
+Project Name : Hotel Management System
 DROP DATABASE IF EXISTS HotelSalesDB;
 CREATE DATABASE HotelSalesDB;
 USE HotelSalesDB;
